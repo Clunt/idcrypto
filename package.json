@@ -1,0 +1,19 @@
+{
+  "name": "idcrypto",
+  "version": "1.0.0",
+  "description": "根据ID(int)生成6位不重复的无序字符串，并可根据字符解析出原ID；用于用户邀请码生成、URL内ID隐藏等场景",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clunt/idcrypto.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clunt/idcrypto/issues"
+  },
+  "homepage": "https://github.com/Clunt/idcrypto#readme"
+}
